@@ -9,7 +9,7 @@ This is a simple project on the journey to master ReactJS through an engaging on
 
 - HTML
 - CSS
--JavaScript
+- JavaScript
 
 
 ## Getting Started
